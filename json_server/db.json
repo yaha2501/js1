@@ -1,0 +1,10 @@
+{
+    "university": [
+        { 
+            "address": 123,
+            "name": "Thăng Long University",
+            "phone": "0981234111",
+            "Gmail": "tledu@gmail.com"
+        }
+    ]
+}
